@@ -1,0 +1,14 @@
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\bin\Debug\netcoreapp3.1\ClassWork_03_30_2022.exe
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\bin\Debug\netcoreapp3.1\ClassWork_03_30_2022.deps.json
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\bin\Debug\netcoreapp3.1\ClassWork_03_30_2022.runtimeconfig.json
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\bin\Debug\netcoreapp3.1\ClassWork_03_30_2022.runtimeconfig.dev.json
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\bin\Debug\netcoreapp3.1\ClassWork_03_30_2022.dll
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\bin\Debug\netcoreapp3.1\ClassWork_03_30_2022.pdb
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.csproj.AssemblyReference.cache
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.AssemblyInfoInputs.cache
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.AssemblyInfo.cs
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.csproj.CoreCompileInputs.cache
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.dll
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.pdb
+C:\Users\tu1h43v7y\Desktop\Classworks\ClassWork_03_30_2022\ClassWork_03_30_2022\obj\Debug\netcoreapp3.1\ClassWork_03_30_2022.genruntimeconfig.cache
