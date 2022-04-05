@@ -61,14 +61,16 @@ namespace ClassWork_03_30_2022
             //Person person1 = new Person("bbbbbb");
             #endregion
 
+            #region Math
             Console.WriteLine($"Max: {Math.Max(5, 10)}");
             Console.WriteLine($"Min: {Math.Min(5, 10)}");
             Console.WriteLine($"Kok: {Math.Sqrt(64)}");
             Console.WriteLine($"Square: {Math.Sqrt(64)}");
             Console.WriteLine($"Absolute: {Math.Abs(-4.7)}");
-            Console.WriteLine($"Nearest whole number: {Math.Round(9.99)}");
-            Console.WriteLine($"Return the smallest integral value: {Math.Floor(9.99)}");
+            Console.WriteLine($"Nearest whole number: {Math.Round(9.4)}");
             Console.WriteLine($"Return the biggest integral value: {Math.Ceiling(9.99)}");
+            Console.WriteLine($"Return the smallest integral value: {Math.Floor(9.99)}");
+            #endregion
 
         }
     }
@@ -78,7 +80,7 @@ namespace ClassWork_03_30_2022
     //    public string Name { get; set; }
 
     //    public DateTime time { get; set; } = DateTime.Now;
-        
+
     //    public Person(string name)
     //    {
     //        Name = name;
@@ -86,6 +88,7 @@ namespace ClassWork_03_30_2022
     //    }
     //}
     #endregion
+
 
 
 }
