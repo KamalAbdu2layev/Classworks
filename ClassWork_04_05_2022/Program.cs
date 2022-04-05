@@ -51,9 +51,16 @@ namespace ClassWork_04_05_2022
             //}
 
             Depatment info = JsonConvert.DeserializeObject<Depatment>(json);
-            foreach (Employee item in info.employees)
+            //foreach (Employee item in info.employees)
+            //{
+            //    item.ShowInfo();
+            //}
+            for (int i = 0; i < depatment.employees.Count; i++)
             {
-                item.ShowInfo();
+                if (depatment.employees[i].Id == 1)
+                {
+                    depatment.employees[i].ShowInfo();
+                }
             }
 
         }
