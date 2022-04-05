@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 
 namespace ClassWork_04_05_2022
 {
-    class Program
+    class Program 
     {
 
         static void Main(string[] args)
@@ -27,8 +27,8 @@ namespace ClassWork_04_05_2022
             //    Console.WriteLine("File alredy exist!!!");
             //}
 
-            Employee employee = new Employee() 
-            { 
+            Employee employee = new Employee()
+            {
                 Name = "Name1",
                 Salary = 999.99
             };
@@ -36,23 +36,26 @@ namespace ClassWork_04_05_2022
             {
                 Name = "Name2",
                 Salary = 888.88
-            }; 
+            };
 
             Depatment depatment = new Depatment();
 
             depatment.employees.Add(employee);
             depatment.employees.Add(employee2);
 
-            //foreach (var item in depatment.employees)
-            //{
-            //    item.ShowInfo();
-            //}
             string json = JsonConvert.SerializeObject(depatment);
 
-            using (StreamWriter streamWriter = new StreamWriter(fileName))
+            //using (StreamWriter streamWriter = new StreamWriter(fileName))
+            //{
+            //    streamWriter.WriteLine(json);
+            //}
+
+            Depatment info = JsonConvert.DeserializeObject<Depatment>(json);
+            foreach (Employee item in info.employees)
             {
-                streamWriter.WriteLine(json);
+                item.ShowInfo();
             }
+
         }
     }
 }
