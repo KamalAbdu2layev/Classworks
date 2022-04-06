@@ -1,0 +1,13 @@
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\99450\Desktop\Classworks\ClassWork_04_06_2022\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
