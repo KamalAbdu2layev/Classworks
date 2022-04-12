@@ -49,3 +49,4 @@ ADD AvaragePoint float CHECK(AvaragePoint >=0 AND AvaragePoint <=100)
 INSERT INTO Students 
 VALUES ('Name8','sadsa',20,99,199.198)
 
+DROP DATABASE Course;
