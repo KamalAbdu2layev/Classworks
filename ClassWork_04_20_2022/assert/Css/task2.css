@@ -1,0 +1,17 @@
+.post .image{
+    margin-left: 40%;
+}
+
+.post .title {
+    margin-left: 35%;
+}
+
+.post .content{
+    border-top: 2px solid rgb(21, 111, 190);  
+    margin-left: 22%;
+    width: 50%;
+}
+.post .post-title{
+
+    color: rgb(167, 25, 25);
+}

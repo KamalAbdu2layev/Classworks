@@ -1,0 +1,19 @@
+body{
+    background-color: #16216D;
+}
+.post{
+    margin-top: 3%;
+    margin-left: 37%;
+    width: 20%;
+    background-color: white;
+    padding: 1%;
+}
+#apple-image{
+    width: 100%;
+}
+#font{
+    color: grey;
+}
+#title{
+    color: #095C94;
+}

@@ -1,0 +1,23 @@
+CREATE DATABASE Course
+
+USE Course
+
+CREATE TABLE Student(
+Id INT PRIMARY KEY IDENTITY,
+FullName NVARCHAR(100) NOT NULL
+)
+
+INSERT INTO Student 
+VALUES
+('Student1')
+
+SELECT * FROM Student
+
+SELECT * FROM Student WHERE Id=1
+
+CREATE PROCEDURE USP_FilterById @Id INT
+AS
+SELECT * FROM Student s
+WHERE s.Id = @Id
+
+--EXEC USP_FilterById 1
