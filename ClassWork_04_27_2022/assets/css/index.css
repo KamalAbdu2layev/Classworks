@@ -1,0 +1,19 @@
+.learn-more{
+    border: 1px solid;
+    margin-left: 15px;
+    padding:  0.5rem 1rem 0.5rem 1rem;
+    font-size: 20px !important;
+}
+.learn-more:hover{
+    background-color: white;
+    color: #212529;
+}
+
+.get-start{
+    padding:  0.5rem 1rem 0.5rem 1rem;
+    font-size: 20px !important;
+}
+
+#features{
+    padding: 5%;
+}

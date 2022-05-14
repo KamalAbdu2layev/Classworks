@@ -1,0 +1,47 @@
+.post{
+    margin-left: 38%;
+    margin-top: 20%;
+}
+
+.post .title{
+    font-family: Montserrat;
+}
+
+.post .icons .fa-brands{
+    border-radius: 10px;
+}
+
+.social-media-link{
+    border-radius: 50%;
+    padding: 10px;
+    margin-right: 0.7%;
+}
+
+.facebook{
+    background-color: rgb(40, 40, 240);
+    color: white;
+}
+.twitter{
+    background-color: rgb(58, 140, 223);
+    color: white;
+}
+.google-plus{
+    background-color: rgb(178, 22, 22);
+    color: white;
+}
+.vk{
+    background-color: rgb(6, 88, 136);
+    color: white;
+}
+.odnoklassniki{
+    background-color: rgb(198, 130, 5);
+    color: white;
+}
+.pinterest{
+    background-color: rgb(139, 20, 20);
+    color: white;
+}
+.mail{
+    background-color: rgb(41, 41, 174);
+    color: white;
+}
